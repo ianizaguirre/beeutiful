@@ -4,17 +4,29 @@ ShellHacks is a 36-hour hackathon at Florida International University (FIU), whi
 
 Their mission is to provide students with the opportunity to learn about new technologies, create innovative projects, and share their work with the community!
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # BEEUTIFUL TRACKING SYSTEMS
 
 **ShellHacks 2017 Hackathon Winner**
 
-🏆  Best IoT Hack Using a Qualcomm Device
+🏆 &nbsp;  Best IoT Hack Using a Qualcomm Device
 
-🏆  Torkoal’s Favorite ( Environmentalism award )
+🏆 &nbsp; Torkoal’s Favorite ( Environmentalism award )
+
+&nbsp;
+&nbsp;
 
 * [View Devpost](https://devpost.com/software/beeutiful-tracking-systems)
+
+
+
+&nbsp;
+&nbsp;
+
 
 
 ## Motivation 
@@ -23,7 +35,8 @@ To read about this project, please click the following link:
 
 
 
-
+&nbsp;
+&nbsp;
 
 ## View Project
 
@@ -39,8 +52,35 @@ To view this application live, please click the following link:
 * [View Project](https://ianizaguirre.github.io/beeutiful/)
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### View the non-demo repositories  
 
 * [View Repository 1](https://github.com/carloslahrssen/beeutiful-tracking-systems)
 
 * [View Repository 2](https://github.com/carloslahrssen/beeutiful-tracking-systems-dragonboard)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## FAQ
+
+**How can your device know the difference between a bee exiting a hive compared to a bee entering a hive?**
+
+We have two infrared sensors, let us call them “sensor 1” and “sensor 2”. Our device becomes the only entrance/exit solution the bees have to access their hive. Inside our unit, sensor 1 is placed behind of sensor 2.
+
+If sensor 1 registers movement and then sensor 2 registers movement – that equals one bee “Exit” from the hive.
+
+If sensor 2 registers movement and then sensor 1 registers movement – that equals one bee “Entrance” to the hive.
+
+
+&nbsp;
+&nbsp;
+&nbsp;
