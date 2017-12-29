@@ -38,3 +38,9 @@ To view this application live, please click the following link:
  
 * [View Project](https://ianizaguirre.github.io/beeutiful/)
 
+
+### View the non-demo repositories  
+
+* [View Repository 1](https://github.com/carloslahrssen/beeutiful-tracking-systems)
+
+* [View Repository 2](https://github.com/carloslahrssen/beeutiful-tracking-systems-dragonboard)
