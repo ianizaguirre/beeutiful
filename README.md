@@ -18,7 +18,7 @@ Their mission is to provide students with the opportunity to learn about new tec
 
 
 ## Motivation 
-To Read about this project, please click the following link:
+To read about this project, please click the following link:
 * [About Project](http://izaguir.re/projects/beeutiful-tracking-systems/)
 
 
