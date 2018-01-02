@@ -1,4 +1,8 @@
 
+# Context
+**Beeutiful Tracking Systems** is a hackathon project I developed during ShellHacks 2017.
+
+&nbsp;
 
 ShellHacks is a 36-hour hackathon at Florida International University (FIU), which took place the weekend of Friday, September 29 to Sunday, October 1st.
 
@@ -31,7 +35,7 @@ Their mission is to provide students with the opportunity to learn about new tec
 
 ## Motivation 
 To read about this project, please click the following link:
-* [About Project](http://izaguir.re/projects/beeutiful-tracking-systems/)
+* [About Project](http://izaguir.re/beeutiful-tracking-systems/)
 
 
 
